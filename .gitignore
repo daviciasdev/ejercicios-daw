@@ -1,0 +1,13 @@
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+out/
+
+# --- Archivos compilados de Java ---
+*.class
+
+# --- Maven (para más adelante) ---
+target/
+
+# --- Sistema ---
+.DS_Store
